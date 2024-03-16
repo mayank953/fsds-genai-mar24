@@ -1,0 +1,13 @@
+# Msgs on Zoom
+
+
+https://github.com/mayank953/fsds-genai-mar24/tree/main/Python/Class%201 Class 1
+
+
+https://github.com/mayank953/fsds-genai-mar24/tree/main/Python/Class%202 Class 2
+
+NeuroLab is not available, let us learn on our Local or Google Colab
+
+
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
