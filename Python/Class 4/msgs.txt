@@ -1,0 +1,4 @@
+// Message
+
+- https://github.com/mayank953/fsds-genai-mar24
+- https://www.vertopal.com/en/convert/ipynb-to-pdf
