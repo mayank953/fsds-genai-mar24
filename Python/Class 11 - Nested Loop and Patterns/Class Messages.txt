@@ -1,0 +1,17 @@
+I will be on leave on 20th April 2024. 
+
+
+For new joinees, we will be connecting for doubt session in the end.
+
+
+assignment timeline/deadline is next saturday i.e. 20th April
+
+You have to mail the assignment to me at mayank@ineuron.ai
+
+
+
+https://pynative.com/print-pattern-python-examples/ --> Patter Question Training
+
+
+https://learn.microsoft.com/en-us/office/troubleshoot/excel/determine-a-leap-year
+(year%400==0) or (year%4==0 and year%100 !=0)
