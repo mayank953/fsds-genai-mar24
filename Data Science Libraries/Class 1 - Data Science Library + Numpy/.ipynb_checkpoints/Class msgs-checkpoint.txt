@@ -1,0 +1,40 @@
+why is FSDS GEN V2 course contents are different from ours?
+
+Can we use vs code.?
+
+will you teach stats as well? - 
+
+
+I tried joining with the earlier link provided.
+But it was again n again giving host is in another meeting
+On several mails, have been given new link and able to join
+
+Kindly let me know what are we taking today?
+
+
+Good morning sir , ididnt receive this call link. why i needs to login to zoom account each time its wasted 27 minutes today .
+
+
+Have we started Data Science basics,
+Bappy sir communicated that we will be starting with API , Stats and then ML to form the base
+Then DS will be started.
+Also Saurabh sir communicated, that the next class will be taken by Bappy sir.
+
+
+Could you tell me the software/package required for data science so that I will setup all the things up through Docker Container, because in my local system don’t want to install specific things for this call, I am already working on many environments that’s why I don’t want occupy the local system with specific class or projects.
+
+
+
+sir online teaching bahut bada scam hai
+
+
+ModuleNotFoundError                       Traceback (most recent call last)
+Cell In[2], line 1
+----> 1 import panda
+
+File ~\anaconda3\Lib\site-packages\panda\__init__.py:1
+----> 1 from request import PandaRequest
+      2 from models import Video, Cloud, Encoding, Profile, Notifications, PandaDict
+      3 from models import GroupRetriever, SingleRetriever
+
+ModuleNotFoundError: No module named 'request'
