@@ -1,0 +1,30 @@
+np.arange(0,12).reshape(2,2,3)
+
+
+For i/ws also, is it expected not to remember any code?
+
+But if we talk about those basic coding problems like prime no, factorials etc.?
+
+
+arange(1,8) reshape (2,2) possible sir or other method to arrenge sir
+
+Sir I have a doubt, even though my iPhone memory which is 128gb, even though a lot of storage is still left why does it always notify me to upgrade my iCloud, could you pls explain?
+
+Sir at what time we will wrap up class, and what is next topic?
+
+can you please tell me how array connection with a6 ?
+
+array is different and a6 is different variable
+
+sir how to print column of an array
+
+
+that when we use nested for loop and if we want to optimize the code at that time we use numpy array
+
+
+
+
+
+
+
+
