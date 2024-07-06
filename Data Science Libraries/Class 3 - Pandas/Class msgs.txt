@@ -1,0 +1,1 @@
+difference between dot product and broadcasting ?
