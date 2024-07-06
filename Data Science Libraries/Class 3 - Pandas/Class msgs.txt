@@ -1,1 +1,9 @@
 difference between dot product and broadcasting ?
+
+So how to easily find array that can be easily reshaped without manual writing it and check it
+
+no no like You are doing for columns i want to do that same for index like... i want to name the index column S.NO. .. How to do that ?
+
+
+how will be the use of iloc and slicing will be different to fetch the data. anyhow it will return the same output. 
+please explain
