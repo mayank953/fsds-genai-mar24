@@ -7,3 +7,5 @@ no no like You are doing for columns i want to do that same for index like... i 
 
 how will be the use of iloc and slicing will be different to fetch the data. anyhow it will return the same output. 
 please explain
+
+[:,-1:-3] using ilo
